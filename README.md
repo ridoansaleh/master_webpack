@@ -1,10 +1,10 @@
 # Master Webpack 4
 
 ## Entry
-Secara default, webpack mempunyai entry : ./scr/index.js
+Secara default, webpack mempunyai entry : `./scr/index.js`
 
 ## Output 
-Secara default, webpack mempunyai output : ./dist/main.js
+Secara default, webpack mempunyai output : `./dist/main.js`
 
 ## Mode
 Pada webpack 4 (versi terbaru) memiliki 2 mode, yaitu: development dan production
